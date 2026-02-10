@@ -1,2 +1,3 @@
-# assignment_1_analysing_data
+# Assignment 1
+
 Cameron Meinsma (S6494935) | Analysing Data
